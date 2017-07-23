@@ -344,7 +344,7 @@ if (scmNamespace != null && !scmNamespace.isEmpty()){
   }
 }
 
-scmProvider.createScmRepos(workspace, repoNamespace, codeReviewEnabled, overwriteRepos)
+// scmProvider.createScmRepos(workspace, repoNamespace, codeReviewEnabled, overwriteRepos)
 ''')
                 }
             }
